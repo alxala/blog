@@ -2,7 +2,10 @@ let dbAds=[
   {
     "target-selector":[
       "#ads",
-      ".ads"
+      ".ads",
+      "header",
+      ".bg-light text-lg-start",
+      "#bg-light text-lg-start"
     ],
     "position":"out-top", //out-top, out-bottom, in-top, in-bottom
     "data" :`
