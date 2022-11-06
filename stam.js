@@ -1,8 +1,8 @@
 let dbAds=[
   {
     "target-selector":[
-      ".card-title",
-      ".text-center"
+      "#ads",
+      ".ads"
     ],
     "position":"out-top", //out-top, out-bottom, in-top, in-bottom
     "data" :`
